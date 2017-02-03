@@ -1,0 +1,9 @@
+E:\1uni\Programming for computing\Semester 2\List boxes 1\List boxes 1\bin\Debug\List boxes 1.exe.config
+E:\1uni\Programming for computing\Semester 2\List boxes 1\List boxes 1\bin\Debug\List boxes 1.exe
+E:\1uni\Programming for computing\Semester 2\List boxes 1\List boxes 1\bin\Debug\List boxes 1.pdb
+E:\1uni\Programming for computing\Semester 2\List boxes 1\List boxes 1\obj\Debug\List boxes 1.csprojResolveAssemblyReference.cache
+E:\1uni\Programming for computing\Semester 2\List boxes 1\List boxes 1\obj\Debug\List_boxes_1.Form1.resources
+E:\1uni\Programming for computing\Semester 2\List boxes 1\List boxes 1\obj\Debug\List_boxes_1.Properties.Resources.resources
+E:\1uni\Programming for computing\Semester 2\List boxes 1\List boxes 1\obj\Debug\List boxes 1.csproj.GenerateResource.Cache
+E:\1uni\Programming for computing\Semester 2\List boxes 1\List boxes 1\obj\Debug\List boxes 1.exe
+E:\1uni\Programming for computing\Semester 2\List boxes 1\List boxes 1\obj\Debug\List boxes 1.pdb
