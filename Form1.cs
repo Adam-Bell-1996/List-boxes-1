@@ -21,5 +21,10 @@ namespace List_boxes_1
         {
 
         }
+
+        private void add_btn_Click(object sender, EventArgs e)
+        {
+            listBoxshopping.Items.Add(txt_New_Item.Text);
+        }
     }
 }
