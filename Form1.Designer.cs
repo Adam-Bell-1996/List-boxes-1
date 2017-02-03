@@ -31,6 +31,7 @@
             this.listBoxshopping = new System.Windows.Forms.ListBox();
             this.add_btn = new System.Windows.Forms.Button();
             this.txt_New_Item = new System.Windows.Forms.TextBox();
+            this.count_btn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // listBoxshopping
@@ -38,7 +39,7 @@
             this.listBoxshopping.FormattingEnabled = true;
             this.listBoxshopping.Location = new System.Drawing.Point(243, 38);
             this.listBoxshopping.Name = "listBoxshopping";
-            this.listBoxshopping.Size = new System.Drawing.Size(89, 147);
+            this.listBoxshopping.Size = new System.Drawing.Size(89, 212);
             this.listBoxshopping.TabIndex = 0;
             this.listBoxshopping.SelectedIndexChanged += new System.EventHandler(this.listBoxshopping_SelectedIndexChanged);
             // 
@@ -54,16 +55,27 @@
             // 
             // txt_New_Item
             // 
-            this.txt_New_Item.Location = new System.Drawing.Point(52, 113);
+            this.txt_New_Item.Location = new System.Drawing.Point(46, 126);
             this.txt_New_Item.Name = "txt_New_Item";
             this.txt_New_Item.Size = new System.Drawing.Size(100, 20);
             this.txt_New_Item.TabIndex = 2;
+            // 
+            // count_btn
+            // 
+            this.count_btn.Location = new System.Drawing.Point(61, 181);
+            this.count_btn.Name = "count_btn";
+            this.count_btn.Size = new System.Drawing.Size(75, 23);
+            this.count_btn.TabIndex = 3;
+            this.count_btn.Text = "count";
+            this.count_btn.UseVisualStyleBackColor = true;
+            this.count_btn.Click += new System.EventHandler(this.count_btn_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(354, 262);
+            this.Controls.Add(this.count_btn);
             this.Controls.Add(this.txt_New_Item);
             this.Controls.Add(this.add_btn);
             this.Controls.Add(this.listBoxshopping);
@@ -79,6 +91,7 @@
         private System.Windows.Forms.ListBox listBoxshopping;
         private System.Windows.Forms.Button add_btn;
         private System.Windows.Forms.TextBox txt_New_Item;
+        private System.Windows.Forms.Button count_btn;
     }
 }
 

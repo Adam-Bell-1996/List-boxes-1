@@ -26,5 +26,10 @@ namespace List_boxes_1
         {
             listBoxshopping.Items.Add(txt_New_Item.Text);
         }
+
+        private void count_btn_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(listBoxshopping.Items.Count.ToString());
+        }
     }
 }
